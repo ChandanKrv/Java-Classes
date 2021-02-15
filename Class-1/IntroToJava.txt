@@ -1,0 +1,5 @@
+//Objects: Realtime entity which have 4 characterstics
+  1) Attribute (Object Name,Phone,College,Stream)
+  2) Behaviour (How object react with system)
+  3) State     (Every State has two state 1.Live state and 2.Dead State, It characterstics of object which changes w.r.t time)
+  4) Identity   (Unique Identity for each object, Roll no, Aadhar card number)
